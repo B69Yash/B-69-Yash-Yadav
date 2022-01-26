@@ -1,1 +1,1 @@
-# B-69-Yash-Yadav Daqtabase
+# B-69-Yash-Yadav Database
